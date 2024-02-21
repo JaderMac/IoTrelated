@@ -4,5 +4,5 @@ Pasta com códigos relacionados a IoT, programação de microprocessadores, micr
 Linguagem Assembly
 Linguagem C
 
-Firmwares para Mictocontroladores PIC, Arduino, STM32, Raspberry Pi, ARM entre outros,
+Firmwares para Microcontroladores PIC, Arduino, STM32, Raspberry Pi, ARM entre outros,
 Esquemas elétricos em JPEG para ilustração.
